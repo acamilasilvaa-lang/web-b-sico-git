@@ -1,4 +1,4 @@
-# Proyecto we básico
+# Proyecto web básico
 
 Este es un proyecto web básico,cuyo propósito es aprender a utilizar Git y GiHub.
 **Necesito:**
